@@ -1,5 +1,8 @@
 # /wp-deploy — Claude Code Command
 
+> Built at [The GEO Lab](https://thegeolab.net) — where every post goes through a 32-part compliance audit before deployment.
+
+
 Deploy HTML posts to WordPress with full compliance — strip DOCTYPE, add JSON-LD schema, set categories/tags/RankMath, clear cache, verify.
 
 ## What it does
