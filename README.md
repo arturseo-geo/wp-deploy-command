@@ -51,4 +51,4 @@ The command uses WordPress REST API with Basic Auth. Update the credentials in t
 
 ---
 
-Built by [The GEO Lab](https://thegeolab.net) | [X](https://x.com/TheGEO_Lab)
+Created by [Artur Ferreira](https://thegeolab.net/about/) at [The GEO Lab](https://thegeolab.net) · [GitHub](https://github.com/arturseo-geo)
